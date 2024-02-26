@@ -1,0 +1,11 @@
+My accounts
+
+username: Stanley
+Password: Password1234
+
+another account
+
+username: Stanley
+Password: Username1212
+
+I was using DatabaseEngine 64 bit
